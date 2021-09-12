@@ -102,6 +102,9 @@ header nav ul ls a:hover, header h1 {
     /* background-image: url(./assets/pics/GitNShage.png); */
     background-size:contain;
     background-color: var(--third-color);
+    background-repeat:no-repeat;
+    background-position:bottom;
+
     height: 250px;
     max-width: 90%;
     color: var(--second-color);
